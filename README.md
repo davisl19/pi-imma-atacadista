@@ -1,6 +1,6 @@
 # pi-imma-atacadista
 
-Transformação Inteligente para a IMMA Atacadista
+Projeto Integrado UNIFEOB – Sistema com IA para digitalização e automação de processos da IMMA Atacadista.
 
 ## O Problema 
 
