@@ -4,7 +4,7 @@
 A comissão padrão é de 2,5%. Produtos em promoção ou tabelas especiais (Tabela B) possuem comissão reduzida de 1,5%.
 
 **RN02 — Ciclo de Recebíveis**  
-Os "Vales" permitidos para clientes de rota são estritamente de 7, 14,21 ou até 28 dias corridos.
+Os "Vales" permitidos para clientes de rota são estritamente de 7, 14, 21 ou até 28 dias corridos.
 
 **RN03 — Bloqueio de Inadimplência**  
 Clientes com Vales vencidos há mais de 5 dias no sistema devem ser sinalizados como "Bloqueados" para novos pedidos.
