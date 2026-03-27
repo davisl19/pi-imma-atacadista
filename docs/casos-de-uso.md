@@ -46,6 +46,9 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RF02 — Extração automática via IA
 - RNF02 — Disponibilidade offline
 
+<img width="636" height="577" alt="image" src="https://github.com/user-attachments/assets/156d603f-9e6b-44de-9fb6-7872f2a32043" />
+
+
 ---
 
 ## UC02 — Registrar Baixa de Pagamento
@@ -78,6 +81,9 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 **Requisitos Relacionados:**
 - RF03 — Gestão de recebíveis
 - RNF03 — Segurança da informação
+
+<img width="466" height="576" alt="image" src="https://github.com/user-attachments/assets/e2b48323-5762-4b07-815e-95baadf74e58" />
+
 
 ---
 
@@ -114,6 +120,9 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RF06 — Integração com ERP
 - RNF03 — Comunicação segura via HTTPS
 
+<img width="368" height="646" alt="image" src="https://github.com/user-attachments/assets/4a18ca28-5271-43d2-acbf-d1755cde0d79" />
+
+
 ---
 
 ## UC04 — Visualizar Comissões do Vendedor
@@ -145,6 +154,9 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 **Requisitos Relacionados:**
 - RF04 — Cálculo automático de comissão
 - RNF04 — Usabilidade da interface
+
+<img width="477" height="437" alt="image" src="https://github.com/user-attachments/assets/6719ed3f-827e-4d07-9556-016e43d5f185" />
+
 
 ---
 
