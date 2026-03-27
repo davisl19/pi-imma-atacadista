@@ -34,7 +34,8 @@ A *IMMA Atacadista*, em Arceburgo (MG), opera hoje com fluxos 100% analógicos. 
     * [Regras de Negócio (RN)](./docs/rn.md)
     * [Requisitos Funcionais (RF)](./docs/rf.md)
     * [Requisitos Não Funcionais (RNF)](./docs/rnf.md)
-    * [Backlog e Casos de Uso](./docs/backlog-inicial.md)
+    * [Backlog Inicial](./docs/backlog-inicial.md)
+    * [Casos de Uso](./docs/casos-de-uso.md)
 * */mobile*: Código-fonte do aplicativo em Flutter.
 * */backend*: Scripts de integração e orquestração da IA.
 * */assets: Identidade visual e o **Vídeo de Sustentabilidade*.
