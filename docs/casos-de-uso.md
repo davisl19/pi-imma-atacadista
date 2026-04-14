@@ -46,7 +46,11 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RF02 — Extração automática via IA
 - RNF02 — Disponibilidade offline
 
+## Diagrama de Atividade
 <img width="636" height="577" alt="image" src="https://github.com/user-attachments/assets/156d603f-9e6b-44de-9fb6-7872f2a32043" />
+
+## Diagrama de Sequência
+<img width="636" height="552" alt="image" src="https://github.com/user-attachments/assets/e7262b80-9f77-444d-8c7a-3b7df5a9ee4f" />
 
 
 ---
@@ -82,8 +86,13 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RF03 — Gestão de recebíveis
 - RNF03 — Segurança da informação
 
+## Diagrama de Atividade
+
 <img width="466" height="576" alt="image" src="https://github.com/user-attachments/assets/e2b48323-5762-4b07-815e-95baadf74e58" />
 
+## Diagrama de Sequência
+
+<img width="557" height="557" alt="image" src="https://github.com/user-attachments/assets/daaff6c9-7cba-418e-a934-f1947946dcaa" />
 
 ---
 
@@ -120,8 +129,13 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RF06 — Integração com ERP
 - RNF03 — Comunicação segura via HTTPS
 
+## Diagrama de Atividade
+
 <img width="368" height="646" alt="image" src="https://github.com/user-attachments/assets/4a18ca28-5271-43d2-acbf-d1755cde0d79" />
 
+## Diagrama de Sequência
+
+<img width="395" height="467" alt="image" src="https://github.com/user-attachments/assets/6471a371-4780-41d7-bac4-7ae92a5cf979" />
 
 ---
 
@@ -155,8 +169,13 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RF04 — Cálculo automático de comissão
 - RNF04 — Usabilidade da interface
 
+## Diagrama de Atividade
+
 <img width="477" height="437" alt="image" src="https://github.com/user-attachments/assets/6719ed3f-827e-4d07-9556-016e43d5f185" />
 
+## Diagrama de Sequência
+
+<img width="537" height="527" alt="image" src="https://github.com/user-attachments/assets/ecb8483e-6596-401d-879c-f39f3133619d" />
 
 ---
 
