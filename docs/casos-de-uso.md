@@ -50,7 +50,8 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 <img width="636" height="577" alt="image" src="https://github.com/user-attachments/assets/156d603f-9e6b-44de-9fb6-7872f2a32043" />
 
 ## Diagrama de Sequência
-<img width="636" height="552" alt="image" src="https://github.com/user-attachments/assets/e7262b80-9f77-444d-8c7a-3b7df5a9ee4f" />
+<img width="773" height="605" alt="image" src="https://github.com/user-attachments/assets/5d7762c5-b9db-48cd-b469-46898a3c0787" />
+
 
 
 ---
@@ -92,7 +93,8 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 
 ## Diagrama de Sequência
 
-<img width="557" height="557" alt="image" src="https://github.com/user-attachments/assets/daaff6c9-7cba-418e-a934-f1947946dcaa" />
+<img width="490" height="402" alt="image" src="https://github.com/user-attachments/assets/5826cf4e-ac3b-47b8-8f67-e9d6389ee8d1" />
+
 
 ---
 
