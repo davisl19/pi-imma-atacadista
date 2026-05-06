@@ -18,6 +18,17 @@ A *IMMA Atacadista*, em Arceburgo (MG), opera hoje com fluxos 100% analógicos. 
 2. *Logística D+1:* Roteirização automática por cidade.
 3. *Paperless:* Digitalização total do controle de malotes e comissões.
 
+## MVP do Projeto
+
+O Produto Mínimo Viável (MVP) será composto pelas seguintes funcionalidades:
+
+- Registro de pedidos por voz  
+- Revisão de pedidos gerados pela IA  
+- Registro digital de pagamentos  
+- Visualização de comissões  
+
+Essas funcionalidades validam a proposta central do sistema: eliminar processos manuais e digitalizar a operação comercial da IMMA Atacadista.
+
 ---
 
 ## Tecnologias Utilizadas
