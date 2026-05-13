@@ -1,11 +1,16 @@
 # Aplicação Mobile
 
-Esta pasta será destinada ao desenvolvimento do aplicativo móvel do projeto.
+Aplicação desenvolvida em Flutter para captação de pedidos, controle de recebíveis e visualização de informações comerciais.
 
-Tecnologia prevista:
-- Flutter
+## Estrutura
 
-Responsabilidades futuras:
-- Interface para captação de pedidos
-- Comunicação com backend
-- Visualização de informações comerciais
+- `lib/app` → configuração principal
+- `lib/features` → módulos da aplicação
+- `assets/images` → recursos visuais
+
+## Arquitetura
+
+O aplicativo segue uma organização baseada em MVVM:
+- Model
+- View
+- ViewModel
