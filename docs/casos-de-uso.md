@@ -2,6 +2,9 @@
 
 Este documento descreve os principais casos de uso do sistema, incluindo os fluxos de interação com o sistema e sua relação com os requisitos e funcionalidades do MVP.
 
+<img width="526" height="403" alt="image" src="https://github.com/user-attachments/assets/c60162f1-656f-4be3-8afc-7e915e81f3c4" />
+
+
 ---
 
 ## UC01 — Registrar Pedido por Voz
