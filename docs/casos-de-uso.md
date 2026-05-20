@@ -44,9 +44,9 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RN04 — Validação de Estoque
 
 ### Requisitos Relacionados:
-- RF02 — Processamento inteligente via IA
-- RF04 — Cálculo de comissão
-- RF05 — Roteirização logística
+
+- RF02 — Cálculo de comissão
+- RF03 — Roteirização logística
 - RNF01 — Tempo de resposta
 
 ## Diagrama de Atividade
@@ -87,7 +87,6 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RN03 — Bloqueio de Inadimplência
 
 **Requisitos Relacionados:**
-- RF03 — Gestão de recebíveis
 - RNF03 — Segurança da informação
 
 ## Diagrama de Atividade
@@ -131,7 +130,7 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RN05 — Preço mínimo de venda
 
 **Requisitos Relacionados:**
-- RF06 — Integração com ERP
+- RF04 — Integração com ERP
 - RNF03 — Comunicação segura via HTTPS
 
 ## Diagrama de Atividade
@@ -171,7 +170,7 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RN01 — Cálculo de Comissão
 
 **Requisitos Relacionados:**
-- RF04 — Cálculo automático de comissão
+- RF02 — Cálculo de comissão
 - RNF04 — Usabilidade da interface
 
 ## Diagrama de Atividade
