@@ -48,13 +48,14 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RF04 — Cálculo de comissão
 - RF05 — Roteirização logística
 - RNF01 — Tempo de resposta
+
 ## Diagrama de Atividade
-<img width="636" height="577" alt="image" src="https://github.com/user-attachments/assets/156d603f-9e6b-44de-9fb6-7872f2a32043" />
+
+<img width="597" height="532" alt="image" src="https://github.com/user-attachments/assets/d2cbbaa1-d5eb-4a00-a07b-b46052d732d2" />
 
 ## Diagrama de Sequência
-<img width="773" height="605" alt="image" src="https://github.com/user-attachments/assets/5d7762c5-b9db-48cd-b469-46898a3c0787" />
 
-
+<img width="615" height="445" alt="image" src="https://github.com/user-attachments/assets/ecfa1742-1874-4688-ac00-9ea037dd4860" />
 
 ---
 
@@ -91,12 +92,12 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 
 ## Diagrama de Atividade
 
-<img width="597" height="532" alt="image" src="https://github.com/user-attachments/assets/294ffbd9-708e-4c77-bf87-d015a92c6447" />
+<img width="430" height="422" alt="image" src="https://github.com/user-attachments/assets/d762fada-c659-4c40-a3f6-55c327f1be27" />
 
 
 ## Diagrama de Sequência
 
-<img width="615" height="445" alt="image" src="https://github.com/user-attachments/assets/61b3b6af-dd44-437c-9ef4-97e5e2f1ead9" />
+<img width="700" height="543" alt="image" src="https://github.com/user-attachments/assets/026f9c6c-5e45-421d-bb0c-8b1db5aa59be" />
 
 ---
 
