@@ -11,3 +11,6 @@ O sistema deve agrupar pedidos por cidade (Arceburgo, Itamogi, etc.) e gerar uma
 
 **RF04 — Integração ERP**  
 O sistema deve enviar os dados validados para o banco de dados do TopGerente via API ou script de automação.
+
+**RF05 — Recomendações Inteligentes por IA**
+O sistema deve analisar dados de vendas e gerar recomendações comerciais inteligentes para auxiliar os vendedores.
