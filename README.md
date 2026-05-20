@@ -32,7 +32,6 @@ Essas funcionalidades validam a proposta central do sistema: eliminar processos 
 
 ## Tecnologias Utilizadas
 * *Frontend:* Flutter (Mobile) - Foco em usabilidade de campo.
-* *Backend:* Python & FastAPI - Orquestração e lógica de negócio.
 * *IA:* Groq API (Llama 3.3 70B Versatile) - Geração de recomendações inteligentes baseadas em dados de vendas.
 * *Banco de Dados:* SQLite (Local) e Integração via API (ERP).
 
@@ -47,7 +46,6 @@ Essas funcionalidades validam a proposta central do sistema: eliminar processos 
     * [Backlog](./docs/backlog.md)
     * [Casos de Uso](./docs/casos-de-uso.md)
 * */mobile*: Código-fonte do aplicativo em Flutter.
-* */backend*: Scripts de integração e orquestração da IA.
 * */assets*: Identidade visual e o **Vídeo de Sustentabilidade*.
 
 ---
