@@ -188,8 +188,7 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 
 O **MVP (Produto Mínimo Viável)** do sistema será composto pelas funcionalidades essenciais para validar a proposta do projeto:
 
-- Registro de pedidos por voz
-- Revisão de pedidos gerados pela IA
+- Recomendações inteligentes por IA
 - Registro digital de pagamentos
 - Visualização de comissões do vendedor
 
