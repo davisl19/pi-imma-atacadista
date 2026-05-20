@@ -47,6 +47,7 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 
 - RF02 — Cálculo de comissão
 - RF03 — Roteirização logística
+- RF05 — Recomendações Inteligentes por IA
 - RNF01 — Tempo de resposta
 
 ## Diagrama de Atividade
