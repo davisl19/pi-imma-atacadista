@@ -2,53 +2,52 @@
 
 Este documento descreve os principais casos de uso do sistema, incluindo os fluxos de interação com o sistema e sua relação com os requisitos e funcionalidades do MVP.
 
-<img width="526" height="403" alt="image" src="https://github.com/user-attachments/assets/c60162f1-656f-4be3-8afc-7e915e81f3c4" />
-
+<img width="620" height="427" alt="image" src="https://github.com/user-attachments/assets/45e5f5f7-a75a-4e45-a4ea-59a873740965" />
 
 ---
 
-## UC01 — Registrar Pedido por Voz
+## UC01 — Receber Recomendações Inteligentes de Venda
+
 **Ator Principal:** Vendedor de Campo
 
-**Objetivo:** Permitir que o vendedor registre pedidos utilizando voz durante visitas a clientes, evitando digitação manual.
+**Objetivo:** Permitir que o vendedor visualize recomendações inteligentes de produtos com base no desempenho de vendas, identificando itens com alta e baixa saída durante as visitas aos clientes.
 
-**Pré-condições:**
+### Pré-condições:
 - O vendedor deve estar autenticado no sistema.
-- O cliente deve estar cadastrado.
+- O sistema deve possuir histórico de vendas registrado.
 
-**Pós-condições:**
-- O pedido é registrado no sistema.
-- Os dados do pedido são enviados para processamento.
+### Pós-condições:
+- O vendedor recebe recomendações de produtos para oferecer ao cliente.
+- O sistema apresenta informações sobre produtos com maior e menor desempenho de vendas.
 
-**Fluxo Principal:**
-1. O vendedor inicia a gravação de áudio no aplicativo.
-2. O vendedor dita os produtos e quantidades solicitadas.
-3. O sistema envia o áudio para processamento pela IA.
-4. A IA converte o áudio em dados estruturados (JSON).
-5. O sistema exibe o pedido para revisão.
-6. O vendedor confirma o pedido.
-7. O sistema registra o pedido no backend.
+### Fluxo Principal:
+1. O vendedor acessa a tela inicial do aplicativo.
+2. O vendedor seleciona a opção “Obter Recomendação por IA”.
+3. O sistema consulta os dados de vendas registrados.
+4. A IA analisa os produtos com maior e menor saída.
+5. O sistema gera recomendações de venda.
+6. O sistema exibe uma área de recomendações na parte inferior da tela.
+7. O vendedor visualiza os produtos recomendados e utiliza as informações durante a negociação com o cliente.
 
-**Fluxos Alternativos:**
-- **A1 — Falha na extração da IA:**
-  - O sistema não consegue interpretar corretamente o áudio.
-  - O sistema solicita revisão manual do pedido.
-  - O vendedor corrige as informações antes de confirmar.
+### Fluxos Alternativos:
 
-- **A2 — Falta de conexão com internet:**
-  - O sistema detecta ausência de conexão.
-  - O pedido é armazenado localmente.
-  - O sistema sincroniza o pedido quando a conexão for restabelecida.
+**A1 — Falha na análise da IA:**
+- O sistema não consegue gerar recomendações no momento.
+- O sistema informa indisponibilidade temporária das recomendações.
 
-**Regras de Negócio:**
+**A2 — Dados insuficientes para análise:**
+- O sistema identifica ausência de histórico suficiente de vendas.
+- O sistema informa que ainda não há dados suficientes para gerar recomendações.
+
+### Regras de Negócio:
 - RN01 — Cálculo de Comissão
 - RN04 — Validação de Estoque
 
-**Requisitos Relacionados:**
-- RF01 — Captura multimodal (voz ou texto)
-- RF02 — Extração automática via IA
-- RNF02 — Disponibilidade offline
-
+### Requisitos Relacionados:
+- RF02 — Processamento inteligente via IA
+- RF04 — Cálculo de comissão
+- RF05 — Roteirização logística
+- RNF01 — Tempo de resposta
 ## Diagrama de Atividade
 <img width="636" height="577" alt="image" src="https://github.com/user-attachments/assets/156d603f-9e6b-44de-9fb6-7872f2a32043" />
 
@@ -92,12 +91,12 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 
 ## Diagrama de Atividade
 
-<img width="466" height="576" alt="image" src="https://github.com/user-attachments/assets/e2b48323-5762-4b07-815e-95baadf74e58" />
+<img width="597" height="532" alt="image" src="https://github.com/user-attachments/assets/294ffbd9-708e-4c77-bf87-d015a92c6447" />
+
 
 ## Diagrama de Sequência
 
-<img width="490" height="402" alt="image" src="https://github.com/user-attachments/assets/5826cf4e-ac3b-47b8-8f67-e9d6389ee8d1" />
-
+<img width="615" height="445" alt="image" src="https://github.com/user-attachments/assets/61b3b6af-dd44-437c-9ef4-97e5e2f1ead9" />
 
 ---
 
