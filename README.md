@@ -6,7 +6,7 @@
 ---
 
 ## Visão Geral
-A *IMMA Atacadista*, em Arceburgo (MG), opera hoje com fluxos 100% analógicos. O sistema surge para atuar como uma camada inteligente sobre o ERP TopGerente, convertendo interações em linguagem natural (voz/texto) em dados estruturados, eliminando o erro humano e o uso extensivo de papel.
+A *IMMA Atacadista*, em Arceburgo (MG), opera hoje com fluxos 100% analógicos. O sistema surge para atuar como uma camada inteligente sobre o ERP TopGerente, auxiliando vendedores com recomendações comerciais baseadas em IA, eliminando o erro humano e o uso extensivo de papel.
 
 ### O Problema
 * *Gargalo de Digitação:* 45 minutos perdidos por rota na transcrição de pedidos manuais.
@@ -14,7 +14,7 @@ A *IMMA Atacadista*, em Arceburgo (MG), opera hoje com fluxos 100% analógicos. 
 * *Latência Logística:* Dificuldade em agrupar pedidos para carregamento imediato.
 
 ### Objetivos
-1. *Automação de Pedidos:* Extração multimodal via *Gemini 1.5 Flash*.
+1. *Recomendações Inteligentes:* Utilização de IA para análise de vendas e geração de recomendações comerciais.
 2. *Logística D+1:* Roteirização automática por cidade.
 3. *Paperless:* Digitalização total do controle de malotes e comissões.
 
@@ -22,8 +22,7 @@ A *IMMA Atacadista*, em Arceburgo (MG), opera hoje com fluxos 100% analógicos. 
 
 O Produto Mínimo Viável (MVP) será composto pelas seguintes funcionalidades:
 
-- Registro de pedidos por voz  
-- Revisão de pedidos gerados pela IA  
+- Recomendações inteligentes por IA
 - Registro digital de pagamentos  
 - Visualização de comissões  
 
@@ -34,7 +33,7 @@ Essas funcionalidades validam a proposta central do sistema: eliminar processos 
 ## Tecnologias Utilizadas
 * *Frontend:* Flutter (Mobile) - Foco em usabilidade de campo.
 * *Backend:* Python & FastAPI - Orquestração e lógica de negócio.
-* *IA:* Google Gemini API - Processamento de linguagem natural e visão.
+* *IA:* Groq API (Llama 3.3 70B Versatile) - Geração de recomendações inteligentes baseadas em dados de vendas.
 * *Banco de Dados:* SQLite (Local) e Integração via API (ERP).
 
 ---
@@ -49,7 +48,7 @@ Essas funcionalidades validam a proposta central do sistema: eliminar processos 
     * [Casos de Uso](./docs/casos-de-uso.md)
 * */mobile*: Código-fonte do aplicativo em Flutter.
 * */backend*: Scripts de integração e orquestração da IA.
-* */assets: Identidade visual e o **Vídeo de Sustentabilidade*.
+* */assets*: Identidade visual e o **Vídeo de Sustentabilidade*.
 
 ---
 
