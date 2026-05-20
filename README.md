@@ -44,7 +44,7 @@ Essas funcionalidades validam a proposta central do sistema: eliminar processos 
     * [Regras de Negócio (RN)](./docs/rn.md)
     * [Requisitos Funcionais (RF)](./docs/rf.md)
     * [Requisitos Não Funcionais (RNF)](./docs/rnf.md)
-    * [Backlog Inicial](./docs/backlog-inicial.md)
+    * [Backlog](./docs/backlog.md)
     * [Casos de Uso](./docs/casos-de-uso.md)
 * */mobile*: Código-fonte do aplicativo em Flutter.
 * */backend*: Scripts de integração e orquestração da IA.
