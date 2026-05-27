@@ -47,7 +47,7 @@ Essas funcionalidades validam a proposta central do sistema: eliminar processos 
     * [Casos de Uso](./docs/casos-de-uso.md)
 * */mobile*: Código-fonte do aplicativo em Flutter.
 * */assets*: Identidade visual.
-* */tests*: Relatorio dos testes realizados.
+* */tests*: Relatório dos testes realizados.
 
 ---
 
