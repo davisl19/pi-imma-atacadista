@@ -46,7 +46,8 @@ Essas funcionalidades validam a proposta central do sistema: eliminar processos 
     * [Backlog](./docs/backlog.md)
     * [Casos de Uso](./docs/casos-de-uso.md)
 * */mobile*: Código-fonte do aplicativo em Flutter.
-* */assets*: Identidade visual e o **Vídeo de Sustentabilidade*.
+* */assets*: Identidade visual.
+* */tests*: Relatorio dos testes realizados.
 
 ---
 
