@@ -43,3 +43,15 @@ flutter pub get
 ```bash
 flutter run
 ```
+---
+
+## Uso Básico do Sistema
+
+Após executar o projeto, o usuário poderá:
+
+- Realizar login no sistema
+- Acessar a tela principal do aplicativo
+- Visualizar produtos disponíveis
+- Solicitar recomendações inteligentes através da IA
+- Registrar pagamentos de pedidos
+- Consultar informações de comissões
