@@ -11,6 +11,3 @@ Clientes com Vales vencidos há mais de 5 dias no sistema devem ser sinalizados 
 
 **RN04 — Validação de Estoque**  
 Um pedido só pode ser faturado se houver saldo positivo no ERP TopGerente. Caso contrário, entra como "Pendência".
-
-**RN05 — Preço Mínimo**  
-O sistema não deve permitir a venda de itens abaixo do preço de custo + impostos básicos (Margem de Segurança).
