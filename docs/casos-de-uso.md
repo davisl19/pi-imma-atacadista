@@ -47,7 +47,7 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 
 - RF02 — Cálculo de comissão
 - RF03 — Roteirização logística
-- RF05 — Recomendações Inteligentes por IA
+- RF04 — Recomendações Inteligentes por IA
 - RNF01 — Tempo de resposta
 
 ## Diagrama de Atividade
@@ -87,9 +87,6 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 - RN02 — Ciclo de Recebíveis
 - RN03 — Bloqueio de Inadimplência
 
-**Requisitos Relacionados:**
-- RNF03 — Segurança da informação
-
 ## Diagrama de Atividade
 
 <img width="430" height="422" alt="image" src="https://github.com/user-attachments/assets/d762fada-c659-4c40-a3f6-55c327f1be27" />
@@ -128,11 +125,6 @@ Este documento descreve os principais casos de uso do sistema, incluindo os flux
 
 **Regras de Negócio:**
 - RN04 — Validação de Estoque
-- RN05 — Preço mínimo de venda
-
-**Requisitos Relacionados:**
-- RF04 — Integração com ERP
-- RNF03 — Comunicação segura via HTTPS
 
 ## Diagrama de Atividade
 
